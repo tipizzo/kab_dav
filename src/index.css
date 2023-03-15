@@ -1,13 +1,91 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  font-family: 'Comfortaa', cursive;
+  font-family: 'Lilita One', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.social-media-icon {
+  margin: 20px;
+  cursor: pointer;
+}
+
+.social-media-link {
+  color: black;
+}
+
+.brand-name {
+  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  font-family: 'Comfortaa', cursive;
+  font-family: 'Lilita One', cursive;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.list-menu {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  height: 800px;
+  font-family: 'Barlow', sans-serif;
+  font-family: 'Dosis', sans-serif;
+}
+
+
+.profile_picture {
+  height: 200px;
+  border-radius: 50%;
+  padding: 5px;
+  margin: 30px;
+}
+
+.presentation {
+  padding: 20px;
+}
+
+.project {
+  height: 100px;
+  width: 500px;
+  border: 1px solid black;
+  margin: 100px;
+}
+
+.project-area {
+  padding: 100px;
+  margin: 20px;
+  font-family: 'Barlow', sans-serif;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+.tech-used {
+  margin: 20px;
+  padding: 10px;
+}
+
+.progress-bar-html {
+  width: 80%;
+}
+.progress-bar-css {
+  width: 80%;
+}
+.progress-bar-javascript {
+  width: 70%;
+}
+.progress-bar-mdb {
+  width: 70%;
+}
+.progress-bar-react {
+  width: 60%;
+}
+.progress-bar-node {
+  width: 50%;
+}
+.progress-bar-django {
+  width: 50%;
+}
+.progress-bar-qgis {
+  width: 90%;
 }
