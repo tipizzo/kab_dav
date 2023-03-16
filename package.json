@@ -1,7 +1,7 @@
 {
-  "name": "k_david",
+  "name": "kab_dav",
   "version": "0.1.0",
-  "homepage": "https://tipizzo.github.io/k_david",
+  "homepage": "https://tipizzo.github.io/kab_dav",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.3.0",
