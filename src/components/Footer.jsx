@@ -165,7 +165,7 @@ function Footer() {
                 <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
                     © {currentYear}
                     <a className='text-reset fw-bold' href='https://mdbootstrap.com/'>
-                        ❣️ & reactjs by Kabanga David
+                        ❣️ with reactjs by Kabanga David
                     </a>
                 </div>
             </MDBFooter>
